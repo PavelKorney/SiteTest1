@@ -22,7 +22,7 @@ public class MainController {
     public String blog(Model model) {
         model.addAttribute("title", "Страница про нас");
         return "blog-main";
-
+//Следующий контроллер
     }
 }
 
